@@ -355,3 +355,7 @@ Build robust computer vision and document QA pipelines with our companion tools:
 ## 📄 License
 
 [MIT](LICENSE) © [Vijay Misal](https://github.com/vjymisal0)
+
+## Limitations
+
+Scores depend on image dimensions, compression, and preprocessing. Treat them as pipeline signals, not universal image-quality grades.
