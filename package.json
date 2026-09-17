@@ -1,6 +1,6 @@
 {
   "name": "contrast-score",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quantifies image and document contrast quality using Michelson contrast, RMS contrast, and luminance histogram distribution via Sharp. Optimized for pre-OCR document scanning and KYC verification.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -51,7 +51,7 @@
   "homepage": "https://github.com/vjymisal0/contrast-score#readme",
   "license": "MIT",
   "dependencies": {
-    "sharp": "^0.33.5"
+    "sharp": "0.35.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
