@@ -1,6 +1,6 @@
 {
   "name": "contrast-score",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quantifies image and document contrast quality using Michelson contrast, RMS contrast, and luminance histogram distribution via Sharp. Optimized for pre-OCR document scanning and KYC verification.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -16,7 +16,8 @@
   "files": [
     "dist",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "CHANGELOG.md"
   ],
   "scripts": {
     "build": "tsup",
